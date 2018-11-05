@@ -1,5 +1,5 @@
-# FCC-Intermediate-Algorithmic-Challenges
-Code solutions for FreeCodeCamp I am especially pleased with, either for being superneat or superadvanced
+# FCC - Challenges and coding projects
+Code solutions for FreeCodeCamp I am especially pleased with, either for being superneat or superadvanced (at least in my opinion)
 
 Feel free to use in your projects if you feel it has some purpose, in that case I would highly appreciate that you credit me.
 
