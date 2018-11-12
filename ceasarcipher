@@ -1,0 +1,20 @@
+function rot13(str) { // LBH QVQ VG!
+
+  str = str.split(""); console.log(str);
+
+  let final = str.map(item => {
+    item = item.charCodeAt();
+    if (item > 64) item+=13;
+    if (item > 90) {
+      let tempval = item - 90;
+      item = 64 + tempval;
+    }
+    return String.fromCharCode(item);
+  })
+  console.log(final);
+  
+  return final.join("");
+}
+
+// Change the inputs below to test
+rot13("SERR PBQR PNZC");
